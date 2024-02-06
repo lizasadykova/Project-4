@@ -1,0 +1,11 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Database
+*.sqlite3
+*.db
+*.sql
+
+# Jupyter workspace
+.jupyter/
