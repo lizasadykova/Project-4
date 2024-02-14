@@ -73,6 +73,8 @@ Answer:
 
 Supervised Learning: 
 
+
+
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/a2397711-6641-4476-a025-cfe57f10f9fe)
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/b06ed2eb-7cb8-4fcc-9fe6-0e94840715c9)
