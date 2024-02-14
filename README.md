@@ -43,7 +43,7 @@ Our data was broken up into several sections that led the way for our analysis.
     Description: Age categories further classified as Children, Youth, Adult
 
 
-### Analysis Question
+### Analysis Questions
 
 - How has the global unemployment rate changed over the years (2014-2024)?
 - What are the countries with the highest and lowest average annual unemployment rates in 2020?
@@ -57,6 +57,9 @@ Unupervised Learning:
 
 ![Cluster Unemployment Rates](https://github.com/lizasadykova/Project-4/assets/142169119/a2b650a8-30f7-4c62-a6e9-ff4d94150e62)
 
+    Utilizing clustering techniques has significantly enhanced our analysis of global unemployment data. By grouping similar data points based on various attributes, such as geographical location or demographic factors, we've gained valuable insights into the underlying patterns and trends
+
+    
 ![image](https://github.com/lizasadykova/Project-4/assets/142169119/a6ca810c-a163-46e6-ae07-e8bd27dba7f5)
 
 
