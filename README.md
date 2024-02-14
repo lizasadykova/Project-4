@@ -51,4 +51,14 @@ Our data was broken up into several sections that led the way for our analysis.
 - Which factors or indicators are most predictive of future unemployment trends?
 
 
-**### Description of Data Exploration Phase
+**Machine Learning!**
+
+Supervised Learning:
+
+![Cluster Unemployment Rates](https://github.com/lizasadykova/Project-4/assets/142169119/a2b650a8-30f7-4c62-a6e9-ff4d94150e62)
+
+
+Unsupervised Learning: 
+
+
+
