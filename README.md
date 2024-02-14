@@ -73,5 +73,21 @@ Answer:
 
 Supervised Learning: 
 
+![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/a2397711-6641-4476-a025-cfe57f10f9fe)
+
+![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/b06ed2eb-7cb8-4fcc-9fe6-0e94840715c9)
+
+
+![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/d0863481-3631-4bae-be40-ff95541c8f6f)
+
+![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/a2db4b1b-b2ab-4923-b317-b8739540ef46)
+
+ct the null hypothesis in the context of the Dickey-Fuller test, it indicates that there is sufficient evidence to conclude that the time series data is stationary. In other words, rejecting the null hypothesis means that there is a presence of a unit root, and the data is not exhibiting a unit root process, which suggests that the data series is stationary or does not have a trend.
+
+In practical terms, rejecting the null hypothesis typically implies that the time series data has properties that make it suitable for certain types of analysis or modeling techniques that assume stationarity. It suggests that the data does not have a consistent trend over time and may exhibit more predictable behavior. This can be important for various statistical analyses, forecasting, and modeling tasks where stationarity is an important assumption.
+
+
+
+
 
 
