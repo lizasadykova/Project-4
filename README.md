@@ -78,16 +78,25 @@ Next, we were curious about which country had the greatest unemployment change w
 Furthermore, the top 5 countries with the highest unemployment change appeared to be Afghanistan, Iraq, Bhutan, Jordan, and South Africa. It may be hypothesized that political, social, and economic factors in the Middle East and Africa influenced these stark changes within their respective nations. 
 
 Question: How has the global unemployment rate changed over the years (2014-2024)?
+Answer: It has increased for some nations based on external factors not directly related to age group or sex.
 
 **Supervised Learning:**
 
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/a2397711-6641-4476-a025-cfe57f10f9fe)
 
+We relied on mean squared error (MSE) to assess the effectiveness of regression models when predicting global unemployment rates for the next ten years. 
+
+Firstly, we gathered historical data that included past unemployment rates alongside relevant predictors like age categories and sex. This dataset formed the foundation for training the regression model. Then, we calculated the MSE by averaging the squared differences between the actual unemployment rates and the model's predictions.
+
+We proceeded to make predictions for the next ten years. The prediction ended up being 11.57% unemployment rate globally.
+
+Interpreting the MSE, I discerned whether the model's predictions closely aligned with actual unemployment rates. The MSE indicated lower precision because of the higher MSE of 8.47% , suggesting that my model's predictions were not strong. So, a higher MSE signified larger prediction errors, prompting us to reassess our model's performance and possibly refine it further.
 
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/b06ed2eb-7cb8-4fcc-9fe6-0e94840715c9)
 
+Next, comes our p-value of .99. The elevated p-value resulting from the analysis comparing unemployment rates across different sex and age categories implied a lack of significant difference in unemployment rates between the groups. This suggests that, statistically, there isn't substantial evidence to support variations in unemployment rates based on sex or age. While the findings may seem counterintuitive given the potential socioeconomic disparities that often exist, it indicated a need for more investigation or consideration of other factors influencing employment dynamics. Further exploration into underlying socioeconomic factors, labor market conditions, and policies may shed light on the complex interplay affecting unemployment trends within distinct demographic groups. So, essentially, we failed to reject our null hypothesis and answer the analysis question: Which factors or indicators are most predictive of future unemployment trends? 
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/d0863481-3631-4bae-be40-ff95541c8f6f)
 
@@ -95,19 +104,16 @@ Question: How has the global unemployment rate changed over the years (2014-2024
 
 ![image](https://github.com/lizasadykova/Project-4/assets/142169119/40917108-97f5-492b-8cd0-39475d7caef8)
 
+Finally, we performed an augmented Dickey-Fuller (ADF) test which is a statistical tool used to assess whether a time series dataset is stationary or exhibits a trend over time. Stationarity implies that the statistical properties of the data, such as mean and variance, remain constant over time. In the context of our analysis of global unemployment data, we utilized the ADF test to determine if the unemployment rates fluctuate randomly or follow a predictable pattern over the years based on sex. By conducting the ADF test, we aimed to understand the underlying behavior of the unemployment data and identify any long-term trends or seasonality. If the ADF test indicates that the data is stationary, it suggests a stable unemployment trend, whereas a non-stationary result would imply the presence of underlying factors affecting unemployment rates that need to be further investigated. As you can see the unemployment rates for men and women decreased slightly from 2014-2024, with women having a slightly higher unemployment rate in comparison to men but if you look at the original dataset you can see there is no change at all in unemployment rates between men and women.
 
-
-
-ct the null hypothesis in the context of the Dickey-Fuller test, it indicates that there is sufficient evidence to conclude that the time series data is stationary. In other words, rejecting the null hypothesis means that there is a presence of a unit root, and the data is not exhibiting a unit root process, which suggests that the data series is stationary or does not have a trend.
-
-In practical terms, rejecting the null hypothesis typically implies that the time series data has properties that make it suitable for certain types of analysis or modeling techniques that assume stationarity. It suggests that the data does not have a consistent trend over time and may exhibit more predictable behavior. This can be important for various statistical analyses, forecasting, and modeling tasks where stationarity is an important assumption.
-
-Question:
 
 ## RECOMMENDATIONS FOR FUTURE ANALYSIS
 
+For future analysis, we would dive deeper into demographic segments beyond just sex and age categories. Explore variables such as education level, ethnicity, and urban/rural residence to understand how these factors influence unemployment rates differently across various groups.
 
+Furthermore, we would investigate unemployment rates by different employment sectors, such as manufacturing, services, and agriculture. Analyzing sector-specific trends can provide insights into the resilience of various industries to economic fluctuations and technological advancements.
 
+Overall, I feel as though the data could have included another dataset with a larger set of variables for exploration.
 
 
 
