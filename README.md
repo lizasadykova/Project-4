@@ -53,7 +53,7 @@ Our data was broken up into several sections that led the way for our analysis.
 
 **Machine Learning!**
 
-Supervised Learning:
+Unupervised Learning:
 
 ![Cluster Unemployment Rates](https://github.com/lizasadykova/Project-4/assets/142169119/a2b650a8-30f7-4c62-a6e9-ff4d94150e62)
 
@@ -71,7 +71,7 @@ Answer:
 ![image](https://github.com/lizasadykova/Project-4/assets/142169119/ea920246-da6a-46c4-80bb-39604e12891f)
 
 
-Unsupervised Learning: 
+Supervised Learning: 
 
 
 
