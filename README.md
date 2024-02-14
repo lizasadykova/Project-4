@@ -1,4 +1,4 @@
-# Final Project
+## Final Project
 
 Team 8: Liza Sadykova & Valentina Hernandez
 
@@ -50,8 +50,10 @@ Our data was broken up into several sections that led the way for our analysis.
 - Which age group has the highest average unemployment rate globally?
 - Which factors or indicators are most predictive of future unemployment trends?
 
+## DATA VISUALIZATION- Valentina
 
-**Machine Learning!**
+
+## Machine Learning!
 
 **Unupervised Learning:**
 
@@ -75,11 +77,14 @@ Next, we were curious about which country had the greatest unemployment change w
 
 Furthermore, the top 5 countries with the highest unemployment change appeared to be Afghanistan, Iraq, Bhutan, Jordan, and South Africa. It may be hypothesized that political, social, and economic factors in the Middle East and Africa influenced these stark changes within their respective nations. 
 
+Question: How has the global unemployment rate changed over the years (2014-2024)?
 
 **Supervised Learning:**
 
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/a2397711-6641-4476-a025-cfe57f10f9fe)
+
+
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/b06ed2eb-7cb8-4fcc-9fe6-0e94840715c9)
 
@@ -97,7 +102,8 @@ ct the null hypothesis in the context of the Dickey-Fuller test, it indicates th
 
 In practical terms, rejecting the null hypothesis typically implies that the time series data has properties that make it suitable for certain types of analysis or modeling techniques that assume stationarity. It suggests that the data does not have a consistent trend over time and may exhibit more predictable behavior. This can be important for various statistical analyses, forecasting, and modeling tasks where stationarity is an important assumption.
 
-## DATA VISUALIZATION
+Question:
+
 ## RECOMMENDATIONS FOR FUTURE ANALYSIS
 
 
