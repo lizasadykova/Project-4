@@ -53,7 +53,7 @@ Our data was broken up into several sections that led the way for our analysis.
 
 **Machine Learning!**
 
-Unupervised Learning:
+**Unupervised Learning:**
 
 ![Cluster Unemployment Rates](https://github.com/lizasadykova/Project-4/assets/142169119/a2b650a8-30f7-4c62-a6e9-ff4d94150e62)
 
@@ -73,14 +73,10 @@ Next, we were curious about which country had the greatest unemployment change w
 ![image](https://github.com/lizasadykova/Project-4/assets/142169119/fa270e86-fb1d-4458-a729-0665009bdbd4)
 
 
-Furthermore, the top 5 countries with the highest unemployment change appeared to be Afghanistan, Iraq, Bhutan, Jordan, and South Africa. It may be hypothesized that political, social, and economic factors influenced these stark changes. These countries are primarily located in the regions of the Middle East and Africa.
-
-![image](https://github.com/lizasadykova/Project-4/assets/142169119/ea920246-da6a-46c4-80bb-39604e12891f)
+Furthermore, the top 5 countries with the highest unemployment change appeared to be Afghanistan, Iraq, Bhutan, Jordan, and South Africa. It may be hypothesized that political, social, and economic factors in the Middle East and Africa influenced these stark changes within their respective nations. 
 
 
-
-Supervised Learning: 
-
+**Supervised Learning: **
 
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/a2397711-6641-4476-a025-cfe57f10f9fe)
