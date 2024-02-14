@@ -57,21 +57,26 @@ Unupervised Learning:
 
 ![Cluster Unemployment Rates](https://github.com/lizasadykova/Project-4/assets/142169119/a2b650a8-30f7-4c62-a6e9-ff4d94150e62)
 
-    Utilizing clustering techniques has significantly enhanced our analysis of global unemployment data. By grouping similar data points based on various attributes, such as geographical location or demographic factors, we've gained valuable insights into the underlying patterns and trends
+Utilizing clustering techniques has significantly enhanced our analysis of global unemployment data. By grouping similar data points based on various attributes, such as geographical location or demographic factors, we've gained valuable insights into the underlying patterns and trends. As you can see in the clustered unemployment rates that compare the rate of unemployment on average between regions from 2014-2024. We can see that for the most part, countries did not experience significant changes in unemployment percentage outside of their baselines from 2014. This cluster chart did not define these countries for us so we took a closer look at what countries experienced an initial more than 30% unemployment rate in 2014 and analyzed it in 2024.
 
     
 ![image](https://github.com/lizasadykova/Project-4/assets/142169119/a6ca810c-a163-46e6-ae07-e8bd27dba7f5)
 
 
-In this chart, we used clustering in order to reflect the unemployment 
-Analysis Question: How has the global unemployment rate changed over the years (2014-2024)?
-Answer: 
+Through this chart we were able to pinpoint which countries significantly increased their unemployment rates and were thus considered outliers in our data. 
+
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/715a82e2-5cdd-4497-80d6-30268cecdc4d) 
 
-![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/da6340ea-40cd-4e6c-afbe-faded5049d1e)
+Next, we were curious about which country had the greatest unemployment change which ended up being Bhutan. The change was primarily noteable in its Youth (15-24) category whose unemployment rate increase 23% in ten years. This begs the question of which factors influenced such a change.
+
+![image](https://github.com/lizasadykova/Project-4/assets/142169119/fa270e86-fb1d-4458-a729-0665009bdbd4)
+
+
+Furthermore, the top 5 countries with the highest unemployment change appeared to be Afghanistan, Iraq, Bhutan, Jordan, and South Africa. It may be hypothesized that political, social, and economic factors influenced these stark changes. These countries are primarily located in the regions of the Middle East and Africa.
 
 ![image](https://github.com/lizasadykova/Project-4/assets/142169119/ea920246-da6a-46c4-80bb-39604e12891f)
+
 
 
 Supervised Learning: 
