@@ -63,6 +63,8 @@ Supervised Learning:
 In this chart, we used clustering in order to reflect the unemployment 
 Analysis Question: How has the global unemployment rate changed over the years (2014-2024)?
 Answer: 
+
+![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/715a82e2-5cdd-4497-80d6-30268cecdc4d) 
 Unsupervised Learning: 
 
 
