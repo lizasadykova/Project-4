@@ -50,7 +50,7 @@ Our data was broken up into several sections that led the way for our analysis.
 - Which age group has the highest average unemployment rate globally?
 - Which factors or indicators are most predictive of future unemployment trends?
 
-## DATA VISUALIZATION- Valentina
+## DATA VISUALIZATION
 
 
 ## Machine Learning!
