@@ -65,6 +65,9 @@ Analysis Question: How has the global unemployment rate changed over the years (
 Answer: 
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/715a82e2-5cdd-4497-80d6-30268cecdc4d) 
+
+![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/da6340ea-40cd-4e6c-afbe-faded5049d1e)
+
 Unsupervised Learning: 
 
 
