@@ -76,7 +76,7 @@ Next, we were curious about which country had the greatest unemployment change w
 Furthermore, the top 5 countries with the highest unemployment change appeared to be Afghanistan, Iraq, Bhutan, Jordan, and South Africa. It may be hypothesized that political, social, and economic factors in the Middle East and Africa influenced these stark changes within their respective nations. 
 
 
-**Supervised Learning: **
+**Supervised Learning:**
 
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/a2397711-6641-4476-a025-cfe57f10f9fe)
@@ -96,6 +96,9 @@ Furthermore, the top 5 countries with the highest unemployment change appeared t
 ct the null hypothesis in the context of the Dickey-Fuller test, it indicates that there is sufficient evidence to conclude that the time series data is stationary. In other words, rejecting the null hypothesis means that there is a presence of a unit root, and the data is not exhibiting a unit root process, which suggests that the data series is stationary or does not have a trend.
 
 In practical terms, rejecting the null hypothesis typically implies that the time series data has properties that make it suitable for certain types of analysis or modeling techniques that assume stationarity. It suggests that the data does not have a consistent trend over time and may exhibit more predictable behavior. This can be important for various statistical analyses, forecasting, and modeling tasks where stationarity is an important assumption.
+
+## DATA VISUALIZATION
+## RECOMMENDATIONS FOR FUTURE ANALYSIS
 
 
 
