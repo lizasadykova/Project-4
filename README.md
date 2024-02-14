@@ -68,7 +68,7 @@ Answer:
 
 ![New Note](https://github.com/lizasadykova/Project-4/assets/142169119/da6340ea-40cd-4e6c-afbe-faded5049d1e)
 
-![image](https://github.com/lizasadykova/Project-4/assets/142169119/3c3bd23e-e146-44fc-b5fb-95a5a3fe1fa4)
+![image](https://github.com/lizasadykova/Project-4/assets/142169119/ea920246-da6a-46c4-80bb-39604e12891f)
 
 
 Unsupervised Learning: 
