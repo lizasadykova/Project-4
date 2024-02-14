@@ -57,7 +57,9 @@ Supervised Learning:
 
 ![Cluster Unemployment Rates](https://github.com/lizasadykova/Project-4/assets/142169119/a2b650a8-30f7-4c62-a6e9-ff4d94150e62)
 
+![image](https://github.com/lizasadykova/Project-4/assets/142169119/7a39abbd-87f8-4b04-a865-9a2e62707ce6)
 
+In this chart, we used clustering in order to reflect the unemployment 
 Unsupervised Learning: 
 
 
