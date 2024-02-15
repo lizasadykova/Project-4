@@ -90,6 +90,10 @@ Furthermore, the top 5 countries with the highest unemployment change appeared t
 ![image](https://github.com/lizasadykova/Project-4/assets/142169119/4175cf69-61ba-4f5c-b117-32609a02a3a3)
 
 
+![image](https://github.com/lizasadykova/Project-4/assets/142169119/151a6bfb-4a7b-4fc4-a076-b2bab4e3199c)
+
+
+
 **Supervised Learning:**
 
 
