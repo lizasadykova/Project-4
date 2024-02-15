@@ -8,7 +8,7 @@ An analysis of global unemployment data from 2014-2024
 
 ### Topic Selection & Hypotheses
 
-Our team will leverage the **Global Unemployment Data sourced from Kaggle ** to explore and test various hypotheses pertaining to global unemployment trends from 2014 to 2024. Our analyses will encompass a range of inquiries, including but not limited to:
+Our team will leverage the **Global Unemployment Data sourced from Kaggle** to explore and test various hypotheses pertaining to global unemployment trends from 2014 to 2024. Our analyses will encompass a range of inquiries, including but not limited to:
 
 **Trend Analysis:** We will examine how the global unemployment rate has evolved over the specified timeframe (2014-2024). By analyzing annual variations, we aim to identify overarching patterns and potential drivers influencing global unemployment dynamics.
 
