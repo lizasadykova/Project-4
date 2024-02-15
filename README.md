@@ -14,7 +14,7 @@ Our team will leverage the **Global Unemployment Data sourced from Kaggle** to e
 
 **Country-Level Analysis:** Our investigation will delve into identifying the countries with the highest and lowest average annual unemployment rates in 2020. This examination will offer insights into the disparities in labor market conditions across different regions of the world.
 
-**Age Group Analysis: **We will investigate which age group exhibits the highest average unemployment rate on a global scale. Understanding the differential impact of unemployment across various age demographics will shed light on demographic-specific challenges and opportunities.
+**Age Group Analysis:**  will investigate which age group exhibits the highest average unemployment rate on a global scale. Understanding the differential impact of unemployment across various age demographics will shed light on demographic-specific challenges and opportunities.
 
 **Predictive Modeling:** Employing advanced statistical techniques, we will assess the predictive power of different factors or indicators in forecasting future unemployment trends. By identifying the most influential predictors, we aim to develop robust models for anticipating and mitigating future unemployment challenges.
 
