@@ -61,6 +61,9 @@ Our data was broken up into several sections that led the way for our analysis.
 - Which factors or indicators are most predictive of future unemployment trends?
 
 
+![image](https://github.com/lizasadykova/Project-4/assets/142169119/4175cf69-61ba-4f5c-b117-32609a02a3a3)
+
+
 ## Machine Learning!
 
 **Unupervised Learning:**
