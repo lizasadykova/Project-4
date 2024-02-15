@@ -41,6 +41,10 @@ Our data was broken up into several sections that led the way for our analysis.
 
 **age_categories**
     Description: Age categories further classified as Children, Youth, Adult
+
+
+![image](https://github.com/lizasadykova/Project-4/assets/142169119/f1e352af-e9ec-4467-8789-aa366c503d8c)
+
     
 
 ![image](https://github.com/lizasadykova/Project-4/assets/142169119/97416175-3638-467b-8108-67d12b94c96d)
