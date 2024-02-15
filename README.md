@@ -50,6 +50,9 @@ Our data was broken up into several sections that led the way for our analysis.
 ![image](https://github.com/lizasadykova/Project-4/assets/142169119/97416175-3638-467b-8108-67d12b94c96d)
 
 
+![image](https://github.com/lizasadykova/Project-4/assets/142169119/ceff1b13-e9fa-4d11-9c17-93bf1388e4d6)
+
+
 ### Analysis Questions
 
 - How has the global unemployment rate changed over the years (2014-2024)?
