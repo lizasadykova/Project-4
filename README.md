@@ -61,8 +61,6 @@ Our data was broken up into several sections that led the way for our analysis.
 - Which factors or indicators are most predictive of future unemployment trends?
 
 
-![image](https://github.com/lizasadykova/Project-4/assets/142169119/4175cf69-61ba-4f5c-b117-32609a02a3a3)
-
 
 ## Machine Learning!
 
@@ -88,8 +86,9 @@ Next, we were curious about which country had the greatest unemployment change w
 
 Furthermore, the top 5 countries with the highest unemployment change appeared to be Afghanistan, Iraq, Bhutan, Jordan, and South Africa. It may be hypothesized that political, social, and economic factors in the Middle East and Africa influenced these stark changes within their respective nations. 
 
-Question: How has the global unemployment rate changed over the years (2014-2024)?
-Answer: It has increased for some nations based on external factors not directly related to age group or sex.
+
+![image](https://github.com/lizasadykova/Project-4/assets/142169119/4175cf69-61ba-4f5c-b117-32609a02a3a3)
+
 
 **Supervised Learning:**
 
